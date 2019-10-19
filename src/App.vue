@@ -86,7 +86,7 @@ export default {
       courseList:[
         {
           id:0,
-          name:'web全栈开发架构师',
+          name:'Web全栈开发架构师',
           price: 1000
         },{
           id:1,
